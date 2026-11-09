@@ -59,5 +59,5 @@ Complete: Completed aquarium scene with animated rising bubbles.
 
 ## Course
 
-Computer Science 1  
+CSCI 1720: Computer Science 1 
 New Mexico State University
