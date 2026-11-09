@@ -1,7 +1,7 @@
 import edu.cymbal.graphics.*;
 import java.awt.Color;
 
-public class AquariumProject {
+public class Aquariumproject {
 
     static Color waterColor = new Color(135, 206, 235);
     static Color sandColor = new Color(238, 214, 175);
