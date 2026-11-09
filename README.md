@@ -55,7 +55,7 @@ java -cp ".;lib/painter-canvas-17.jar" Aquarium
 
 ## Project Status
 
-**In Progress** — The development environment has been configured, and the Painter graphics library has been successfully tested. The aquarium scene is currently being developed.
+Complete: Completed aquarium scene with animated rising bubbles.
 
 ## Course
 
